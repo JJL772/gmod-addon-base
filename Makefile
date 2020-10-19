@@ -27,6 +27,8 @@ publish: "$(ADDON).gma"
 install:
 	ln -s "$(TOP)/src" "$(GMOD_TOP)/garrysmod/addons/$(ADDON)"
 
+clean:
+	rm "$(ADDON).gma"
 
 "$(ADDON).gma":
 	@echo "==== Building GMA Archive ===="
