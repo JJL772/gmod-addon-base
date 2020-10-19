@@ -1,0 +1,10 @@
+{
+        "title": "Template Addon",
+        "type": "ServerContent",
+        "tags": [],
+        "ignore": [
+                ".vscode",
+                ".idea",
+                ".git"
+        ]
+}
