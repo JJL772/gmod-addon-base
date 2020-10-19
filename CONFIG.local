@@ -1,0 +1,13 @@
+# Name of your addon
+# This shouldnt contain spaces or any control chars, as it will be used
+# in the creation of the directory and gma archive
+ADDON=example
+
+# Top directory of gmod, where bin/ garrysmod/ and platform/ are located.
+GMOD_TOP=/media/LocalDisk/UbuntuSteamLibrary/steamapps/common/GarrysMod/
+
+# Icon of the addon to be used in the workshop
+ICON=example.jpg
+
+# ID of the addon in the workshop
+ID=1234
